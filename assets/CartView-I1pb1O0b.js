@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,a as s}from"./index-91Q6eud0.js";const c={},a=s("h1",null,"這是購物車頁面",-1),n=[a];function r(_,d,i,l,p,f){return o(),t("div",null,n)}const h=e(c,[["render",r]]);export{h as default};

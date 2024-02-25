@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t,a as s}from"./index-91Q6eud0.js";const c={},n=s("h1",null,"編輯訂單",-1),r=[n];function a(_,d,i,l,p,f){return t(),o("div",null,r)}const m=e(c,[["render",a]]);export{m as default};
